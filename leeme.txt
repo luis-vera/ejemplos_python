@@ -1,0 +1,3 @@
+inicio: ejemplo
+
+archivo modificado
